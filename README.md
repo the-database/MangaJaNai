@@ -18,4 +18,4 @@ In the future a program to manage manga upscales will be provided, currently [ch
 8. Press the play button on the top bar in chaiNNer to begin upscaling. 
   
 ## Related Projects
-[mpv-upscale-2x_animejanai](https://github.com/the-database/mpv-upscale-2x_animejanai)
+- [mpv-upscale-2x_animejanai](https://github.com/the-database/mpv-upscale-2x_animejanai): Real-time anime upscaling to 4k in mpv with Real-ESRGAN compact models 
