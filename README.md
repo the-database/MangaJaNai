@@ -17,3 +17,5 @@ In the future a program to manage manga upscales will be provided, currently [ch
 7. Set your desired image quality settings in the Save Image node. WEBP format with 80 quality is suggested by default for good quality and efficient filesize compression, but the settings may be customize to suit your specific requirements.
 8. Press the play button on the top bar in chaiNNer to begin upscaling. 
   
+## Related Projects
+[mpv-upscale-2x_animejanai](https://github.com/the-database/mpv-upscale-2x_animejanai)
