@@ -8,7 +8,7 @@ In the future a program to manage manga upscales will be provided, currently [ch
 ## Usage Instructions
 1. Download and install [chaiNNer](https://chainner.app/download).
 2. Download the .pth file of the model you would like to use for upscales. 
-3. Download [mangajanai pytorch.chn](mangajanai pytorch.chn) file and open it in chaiNNer.
+3. Download [mangajanai pytorch.chn](mangajanai%20pytorch.chn?raw=1) file and open it in chaiNNer.
 4. In the Load Model node, click on the text box below Pretrained Model to open a file dialog. Choose the .pth file that you downloaded in step 2.
 5. In the Image File Iterator node, click on the text box below Base Directory and select the folder which contains the manga images you wish to upscale. All images must be extracted already, .cbz or .zip archives are not supported. 
    1. If you wish to upscale a single chapter or volume of a manga then the folder you select should contain the images you want to upscale.
