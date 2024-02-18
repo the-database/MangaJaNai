@@ -6,7 +6,7 @@
 
 MangaJaNai is a collection of upscaling models for manga. The models are mainly optimized to upscale digital manga images of Japanese or English text with height around 1200px.
 
-In the future a program to manage manga upscales will be provided, currently [chaiNNer](https://chainner.app/download) is recommend to use these models to generate upscaled manga.
+Join the [**MangaJaNai Discord server**](https://discord.gg/EeFfZUBvxj) to get the latest news, download pre-release and experimental models, get support and ask questions, share your upscales, or share your feedback. 日本語も大丈夫です。
 
 ## Usage Instructions
 
