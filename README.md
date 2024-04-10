@@ -2,6 +2,8 @@
 
 [![Discord](https://img.shields.io/discord/1121653618173546546?label=Discord&logo=Discord&logoColor=white)](https://discord.gg/EeFfZUBvxj)
 
+[![mangajanai](https://github.com/the-database/mangajanai/assets/17340496/d18e8866-8bd8-480b-aea5-43b426d344e7)](https://slow.pics/c/cAh7kzvY)
+
 ## Overview
 
 MangaJaNai is a collection of upscaling models for manga. The models are mainly optimized to upscale digital manga images of Japanese or English text with height around 1200px.
