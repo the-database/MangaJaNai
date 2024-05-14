@@ -2,7 +2,8 @@
 
 [![Discord](https://img.shields.io/discord/1121653618173546546?label=Discord&logo=Discord&logoColor=white)](https://discord.gg/EeFfZUBvxj)
 
-[![mangajanai](https://github.com/the-database/mangajanai/assets/17340496/d18e8866-8bd8-480b-aea5-43b426d344e7)](https://slow.pics/c/cAh7kzvY)
+<a href="./demov3.webp?raw=1"><img src="mangajanaiv1demo.webp"/></a>
+<p align="center"><sup>(click image to enlarge)</sup></p>
 
 ## Overview
 
