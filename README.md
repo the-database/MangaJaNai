@@ -2,7 +2,7 @@
 
 [![Discord](https://img.shields.io/discord/1121653618173546546?label=Discord&logo=Discord&logoColor=white)](https://discord.gg/EeFfZUBvxj)
 
-<a href="./demov3.webp?raw=1"><img src="mangajanaiv1demo.webp"/></a>
+<a href="./mangajanaiv1demo.webp?raw=1"><img src="mangajanaiv1demo.webp"/></a>
 <p align="center"><sup>(click image to enlarge)</sup></p>
 
 ## Overview
