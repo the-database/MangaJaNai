@@ -9,7 +9,7 @@
 
 MangaJaNai is a collection of upscaling models for manga. The models are mainly optimized to upscale digital manga images of Japanese or English text with height ranging from around 1200px to 2048px.
 
-Join the [**MangaJaNai Discord server**](https://discord.gg/EeFfZUBvxj) to get the latest news, download pre-release and experimental models, get support and ask questions, share your upscales, or share your feedback. 日本語も大丈夫です。
+Join the [**JaNai Discord server**](https://discord.gg/EeFfZUBvxj) to get the latest news, download pre-release and experimental models, get support and ask questions, share your upscales, or share your feedback. 日本語も大丈夫です。
 
 ## Usage Instructions
 
@@ -29,3 +29,20 @@ Since the MangaJaNai models are only suitable for black and white manga pages, s
 
 - [mpv-upscale-2x_animejanai](https://github.com/the-database/mpv-upscale-2x_animejanai): Real-time anime upscaling to 4k in mpv with Real-ESRGAN compact models
 - [MangaJaNaiConverterGui](https://github.com/the-database/MangaJaNaiConverterGui): Windows GUI for manga upscaling with MangaJaNai models
+
+## Acknowledgements
+- [422415](https://github.com/422415) for significant assistance in dataset preparation and continuous feedback during development of V1 models
+- Members of the JaNai Discord server for assistance with manga resources:
+    - Alexandros
+    - umzi
+    - M7MedOo
+    - Gnathonic
+- Members of the JaNai Discord server for continuous feedback on beta models:
+    - junmittens
+    - SOUNDSPHERE BEST GAME
+    - marv
+    - Big_herooooo
+    - avc1657
+    - risho
+- [traiNNer-redux](https://github.com/joeyballentine/traiNNer-redux)
+- [Dataset Destroyer](https://github.com/Kim2091/helpful-scripts/tree/main/Dataset%20Destroyer)
