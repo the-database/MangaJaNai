@@ -29,6 +29,7 @@ Since the MangaJaNai models are only suitable for black and white manga pages, s
 
 - [mpv-upscale-2x_animejanai](https://github.com/the-database/mpv-upscale-2x_animejanai): Real-time anime upscaling to 4k in mpv with Real-ESRGAN compact models
 - [MangaJaNaiConverterGui](https://github.com/the-database/MangaJaNaiConverterGui): Windows GUI for manga upscaling with MangaJaNai models
+- [traiNNer-redux](https://github.com/the-database/traiNNer-redux): Software for training upscaling models
 
 ## Acknowledgements
 - [422415](https://github.com/422415) for significant assistance in dataset preparation and continuous feedback during development of V1 models
